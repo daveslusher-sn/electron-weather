@@ -85,4 +85,4 @@ At the end of all of our exercises, you should have an app that looks similar to
 ![screenshot](https://cloud.githubusercontent.com/assets/671378/15033544/97011f38-1220-11e6-9611-1571063fe107.png)
 
 ## Extended Resources
-- https://github.com/satelliteworkshops/electron-weather/issues/2
+https://github.com/universeworkshops/electron-weather/issues/1

@@ -31,4 +31,4 @@ npm start
 ```
 **Step Ten**: Open DevTools again to determine if the console error disappears.
 
-### Jump to [Next Exercise](4-refactoring.md)
+#### Jump to [Next Exercise](4-refactoring.md)

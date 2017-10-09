@@ -7,4 +7,4 @@ git clone YOURFORKEDCOPY
 
 **Step Three**: Open your files in your text editor.
 
-### Jump to [Next Exercise](2-diving-in.md)
+#### Jump to [Next Exercise](2-diving-in.md)

@@ -35,4 +35,4 @@ npm install -g gulp
 gulp serve
 ```
 
-### Jump to [Next Exercise](8-CYOA.md)
+#### Jump to [Next Exercise](8-CYOA.md)
