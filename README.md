@@ -10,12 +10,6 @@ Getting up and running on Electron, a a framework to build cross platform deskto
 
 **Summary**
 
-An example app for building a native-looking Mac OS X tray app with a popover
-using [Electron](http://electron.atom.io).
-
-The app shows the weather for the current location and refreshes every 10
-minutes.
-
 Built with the [photon](http://photonkit.com) user interface kit.
 Uses the [Dark Sky Forecast API](https://developer.forecast.io) as a data source.
 
@@ -78,7 +72,7 @@ If you need a refresher, consider [exploring our free on-demand training](https:
 The cheat sheets for each activity are linked here:
 
 - [Exercise 1: Getting Started](cheat-sheets/1-getting-started.md)
-- [Exercise 2: Creating a File](cheat-sheets/2-create-file.md)
+- [Exercise 2: Creating a File](cheat-sheets/2-diving-in.md)
 - [Exercise 3: Staging the File](cheat-sheets/3-stage-file.md)
 - [Exercise 4: Committing the File](cheat-sheets/4-commit-file.md)
 - [Exercise 5: Attach the Commit to a Branch](cheat-sheets/5-make-branch.md)
