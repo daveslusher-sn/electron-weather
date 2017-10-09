@@ -4,10 +4,7 @@
 ```sh
 git clone YOURFORKEDCOPY
 ```
-**Step Three**:
-```sh
-git checkout electron-weather
-```
-**Step Four**: Open your files in your text editor.
 
-**Step Five**: Follow the next instructions in the README.md.
+**Step Three**: Open your files in your text editor.
+
+### Jump to [Next Exercise](2-create-file.md)
