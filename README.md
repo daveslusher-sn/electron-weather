@@ -72,11 +72,13 @@ If you need a refresher, consider [exploring our free on-demand training](https:
 The cheat sheets for each activity are linked here:
 
 - [Exercise 1: Getting Started](cheat-sheets/1-getting-started.md)
-- [Exercise 2: Creating a File](cheat-sheets/2-diving-in.md)
-- [Exercise 3: Staging the File](cheat-sheets/3-stage-file.md)
-- [Exercise 4: Committing the File](cheat-sheets/4-commit-file.md)
-- [Exercise 5: Attach the Commit to a Branch](cheat-sheets/5-make-branch.md)
-- [Exercise 6: Create a Pack File](cheat-sheets/6-make-pack.md)
+- [Exercise 2: Diving In](cheat-sheets/2-diving-in.md)
+- [Exercise 3: Electron Defaults](cheat-sheets/3-electron-defaults.md)
+- [Exercise 4: Refactoring](cheat-sheets/4-refactoring.md)
+- [Exercise 5: Packaging](cheat-sheets/5-packaging.md)
+- [Exercise 6: Packaging Extensions](cheat-sheets/6-packaging-extensions.md)
+- [Exercise 7: Refresh](cheat-sheets/7-refresh.md)
+- [Exercise 8: CYOA](cheat-sheets/8-CYOA.md)
 
 ## End Product
 At the end of all of our exercises, you should have an app that looks similar to this!

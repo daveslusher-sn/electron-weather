@@ -33,3 +33,5 @@ npm install
 ```sh
 npm start
 ```
+
+### Jump to [Next Exercise](5-packaging.md)

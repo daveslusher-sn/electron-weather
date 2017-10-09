@@ -52,3 +52,5 @@ nvm use 6
 npm run build
 ```
 WARNING – It might take a long time to build the win32 package. Leave this for 5-10 minutes and return.
+
+### Jump to [Next Exercise](6-packaging-extensions.md)

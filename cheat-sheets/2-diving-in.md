@@ -6,3 +6,4 @@
 ```sh
 npm start
 ```
+### Jump to [Next Exercise](3-electron-defaults.md)
