@@ -20,9 +20,10 @@ Built with the [photon](http://photonkit.com) user interface kit.
 Uses the [Dark Sky Forecast API](https://developer.forecast.io) as a data source.
 
 **Table of Contents**
-- [Prerequisites](#Prerequisites)
-- [Getting Started](#Getting Started)
-- [Resources](#Extended Resources)
+- [Prerequisites](#prerequisites)
+- [Cheat Sheets](#cheat-sheets)
+- [End Product](#end-product)
+- [Resources](#extended-resources)
 
 ## Prerequisites
 
@@ -73,20 +74,15 @@ If you need a refresher, consider [exploring our free on-demand training](https:
 - Let's leave this up to users, making the assumption that as Linux users they can figure it out :grin:  
   - [Treehouse recommends](http://treehouse.github.io/installation-guides/linux/node-linux.html) installing via [Linuxbrew](http://linuxbrew.sh)
 
-## Getting Started
-**Step One**: Fork this repo
+## Cheat-Sheets
+The cheat sheets for each activity are linked here:
 
-**Step Two**:
-```sh
-git clone YOURFORKEDCOPY
-```
-**Step Three**:
-```sh
-git checkout electron-setup
-```
-**Step Four**: Open your files in your text editor.
-
-**Step Five**: Follow the next instructions in the README.md.
+- [Exercise 1: Getting Started](cheat-sheets/1-getting-started.md)
+- [Exercise 2: Creating a File](cheat-sheets/2-create-file.md)
+- [Exercise 3: Staging the File](cheat-sheets/3-stage-file.md)
+- [Exercise 4: Committing the File](cheat-sheets/4-commit-file.md)
+- [Exercise 5: Attach the Commit to a Branch](cheat-sheets/5-make-branch.md)
+- [Exercise 6: Create a Pack File](cheat-sheets/6-make-pack.md)
 
 ## End Product
 At the end of all of our exercises, you should have an app that looks similar to this!
