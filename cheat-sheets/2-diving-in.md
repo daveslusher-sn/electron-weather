@@ -1,8 +1,12 @@
-**Step One**: On line 9 of index.html, add:
+**Step One:**
+```
+npm install
+```
+**Step Two**: On line 9 of index.html, add:
 ```js
  require('./index')
 ```
-**Step Two**: Commit the change, and test your code by launching the app.
+**Step Three**: Commit the change, and test your code by launching the app.
 ```sh
 npm start
 ```
