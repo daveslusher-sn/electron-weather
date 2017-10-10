@@ -46,6 +46,7 @@ You'll want to know how to [fork](https://help.github.com/articles/fork-a-repo/)
 If you need a refresher, consider [exploring our free on-demand training](https://services.github.com/on-demand/).
 
 #### Install a text editor
+Perhaps consider [Atom](https://atom.io/) if you're looking for an awesomely hackable text editor for the 21st century!
 
 #### Install Node.js
 > **Q:** Why do we need to install Node.js if Electron includes Node.js?
