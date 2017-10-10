@@ -29,18 +29,16 @@ Uses the [Dark Sky Forecast API](https://developer.forecast.io) as a data source
 #### Install Git
 
 ##### macOS
-- Mac users, while you probably already have _a_ version of Git on your system, it may be out-of-date.
-- Consider installing the latest stable version of Git with [Homebrew](https://brew.sh)  
+Mac users, while you probably already have _a_ version of Git on your system, it may be out-of-date. Consider installing the latest stable version of Git with [Homebrew](https://brew.sh)  
   ```sh
   brew install git
   ```
-- If you prefer a GUI, try [GitHub Desktop](https://desktop.github.com)
 
 ##### Windows
-- [GitHub Desktop](https://desktop.github.com) is an easy way to install the Git command line tools on Windows.
+[Git for Windows](https://git-for-windows.github.io/) provides both Git and a Bash emulation environment to use Git on the command line.
 
 ##### Linux
-- While some Linux distributions come with a version of Git installed, it's often out-of-date. [This guide](https://git-scm.com/download/linux) has recommended commands to install Git with your distribution's preferred package manager.
+While some Linux distributions come with a version of Git installed, it's often out-of-date. [This guide](https://git-scm.com/download/linux) has recommended commands to install Git with your distribution's preferred package manager.
 
 ##### Get familiar with Git commands
 You'll want to know how to [fork](https://help.github.com/articles/fork-a-repo/) and [clone](https://help.github.com/articles/cloning-a-repository/) a Git repository, and how to [check out a branch](https://git-scm.com/docs/git-checkout#git-checkout-emgitcheckoutemltbranchgt).
