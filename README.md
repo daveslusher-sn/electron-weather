@@ -6,7 +6,7 @@
 
 **What This Session is About**
 
-Getting up and running on Electron, a a framework to build cross platform desktop apps with JavaScript, HTML, and CSS. You'll walk away with a fully functional Electron desktop app that you can take apart and customize, along with the knowledge to confidently start building your own Electron apps. This repository houses a series of introductory-to-intermediate exercises to Git familiar with Electron by manipulating and extending a prebuilt weather app.
+Getting up and running on [Electron](https://electron.atom.io/), a framework to build cross platform desktop apps with JavaScript, HTML, and CSS. You'll walk away with a fully functional Electron desktop app that you can take apart and customize, along with the knowledge to confidently start building your own Electron apps. This repository houses a series of introductory-to-intermediate exercises to Git familiar with Electron by manipulating and extending a prebuilt weather app.
 
 **Summary**
 
@@ -29,7 +29,10 @@ Uses the [Dark Sky Forecast API](https://developer.forecast.io) as a data source
 #### Install Git
 
 ##### macOS
-Mac users, while you probably already have _a_ version of Git on your system, it may be out-of-date. Consider installing the latest stable version of Git with [Homebrew](https://brew.sh)  
+Mac users, while you probably already have _a_ version of Git on your system, it may be out-of-date. You can [download an updated installer package here](https://git-scm.com/download/mac).
+
+
+Advanced users might consider installing the latest stable version of Git with [Homebrew](https://brew.sh), e.g.: 
   ```sh
   brew install git
   ```
