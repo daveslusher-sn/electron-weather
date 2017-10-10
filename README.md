@@ -6,7 +6,7 @@
 
 **What This Session is About**
 
-Getting up and running on Electron, a a framework to build cross platform desktop apps with JavaScript, HTML, and CSS. You'll walk away with a fully functional Electron desktop app that you can take apart and customize, along with the knowledge to confidently start building your own Electron apps. This repository houses a series of introductory-to-intermediate exercises to Git familiar with Electron by manipulating and extending a prebuilt weather app.
+Getting up and running on [Electron](https://electron.atom.io/), a framework to build cross platform desktop apps with JavaScript, HTML, and CSS. You'll walk away with a fully functional Electron desktop app that you can take apart and customize, along with the knowledge to confidently start building your own Electron apps. This repository houses a series of introductory-to-intermediate exercises to Git familiar with Electron by manipulating and extending a prebuilt weather app.
 
 **Summary**
 
@@ -21,26 +21,27 @@ Uses the [Dark Sky Forecast API](https://developer.forecast.io) as a data source
 
 ## Prerequisites
 
-- Install Git
-- Get familiar with Git commands
-- Install a text editor
-- Install Node.js
+- [Install Git](#install-git)
+- [Get familiar with Git commands](#get-familiar-with-git-commands)
+- [Install a text editor](#install-a-text-editor)
+- [Install Node.js](#install-nodejs)
 
 #### Install Git
 
 ##### macOS
-- Mac users, while you probably already have _a_ version of Git on your system, it may be out-of-date.
-- Consider installing the latest stable version of Git with [Homebrew](https://brew.sh)  
+Mac users, while you probably already have _a_ version of Git on your system, it may be out-of-date. You can [download an updated installer package here](https://git-scm.com/download/mac).
+
+
+Advanced users might consider installing the latest stable version of Git with [Homebrew](https://brew.sh), e.g.: 
   ```sh
   brew install git
   ```
-- If you prefer a GUI, try [GitHub Desktop](https://desktop.github.com)
 
 ##### Windows
-- [GitHub Desktop](https://desktop.github.com) is an easy way to install the Git command line tools on Windows.
+[Git for Windows](https://git-for-windows.github.io/) provides both Git and a Bash emulation environment to use Git on the command line.
 
 ##### Linux
-- While some Linux distributions come with a version of Git installed, it's often out-of-date. [This guide](https://git-scm.com/download/linux) has recommended commands to install Git with your distribution's preferred package manager.
+While some Linux distributions come with a version of Git installed, it's often out-of-date. [This guide](https://git-scm.com/download/linux) has recommended commands to install Git with your distribution's preferred package manager.
 
 ##### Get familiar with Git commands
 You'll want to know how to [fork](https://help.github.com/articles/fork-a-repo/) and [clone](https://help.github.com/articles/cloning-a-repository/) a Git repository, and how to [check out a branch](https://git-scm.com/docs/git-checkout#git-checkout-emgitcheckoutemltbranchgt).
@@ -48,25 +49,18 @@ You'll want to know how to [fork](https://help.github.com/articles/fork-a-repo/)
 If you need a refresher, consider [exploring our free on-demand training](https://services.github.com/on-demand/).
 
 #### Install a text editor
+Perhaps consider [Atom](https://atom.io/) if you're looking for an awesomely hackable text editor for the 21st century!
 
 #### Install Node.js
 > **Q:** Why do we need to install Node.js if Electron includes Node.js?
 >
-> **A:** While Electron does include its own version of Node.js, what we'll install first includes `npm`, the Node Package Manager. NPM is what powers our dependency installation and build processes.
+> **A:** While Electron does include its own internal version of Node.js, what we'll install first includes `npm`, the Node Package Manager. NPM is what powers our dependency installation and build processes.
 
-##### macOS
-- [Homebrew](https://brew.sh) (recommended) or [installer package](https://nodejs.org/en/download/)
-  - [Treehouse has a Homebrew installation guide](http://treehouse.github.io/installation-guides/mac/homebrew.html)
-  - …and a [Node.js installation guide](http://treehouse.github.io/installation-guides/mac/node-mac.html)
-- Homebrew makes it easier to upgrade Node.js, and doesn't require admin privileges (`sudo`) or manually updating the `$PATH`.
+For all platforms, visit [nodejs.org](https://nodejs.org/en/download/) to download the installer package. For our purposes today, we recommend the "LTS" package.
 
-##### Windows
-- [Installer package](https://nodejs.org/en/download/)  
-  - [Treehouse has a nice step-by-step guide](http://treehouse.github.io/installation-guides/windows/node-windows.html)
+For advanced users: if you later want to install multiple versions of node and npm on your system you can use tools like [`nvm`](https://github.com/creationix/nvm) or [`n`](https://github.com/tj/n).
 
-##### Linux
-- Let's leave this up to users, making the assumption that as Linux users they can figure it out :grin:  
-  - [Treehouse recommends](http://treehouse.github.io/installation-guides/linux/node-linux.html) installing via [Linuxbrew](http://linuxbrew.sh)
+Once you've got Node.js installed you will have the `node` and `npm` commands available in your terminal. You should be able to `npm install` packages now, without using `sudo`. If you see errors when installing packages with npm, you may need to [fix your permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions).
 
 ## Cheat-Sheets
 The cheat sheets for each activity are linked here:
