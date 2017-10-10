@@ -21,10 +21,10 @@ Uses the [Dark Sky Forecast API](https://developer.forecast.io) as a data source
 
 ## Prerequisites
 
-- Install Git
-- Get familiar with Git commands
-- Install a text editor
-- Install Node.js
+- [Install Git](#install-git)
+- [Get familiar with Git commands](#get-familiar-with-git-commands)
+- [Install a text editor](#install-a-text-editor)
+- [Install Node.js](#install-nodejs)
 
 #### Install Git
 
