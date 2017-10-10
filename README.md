@@ -52,21 +52,13 @@ If you need a refresher, consider [exploring our free on-demand training](https:
 #### Install Node.js
 > **Q:** Why do we need to install Node.js if Electron includes Node.js?
 >
-> **A:** While Electron does include its own version of Node.js, what we'll install first includes `npm`, the Node Package Manager. NPM is what powers our dependency installation and build processes.
+> **A:** While Electron does include its own internal version of Node.js, what we'll install first includes `npm`, the Node Package Manager. NPM is what powers our dependency installation and build processes.
 
-##### macOS
-- [Homebrew](https://brew.sh) (recommended) or [installer package](https://nodejs.org/en/download/)
-  - [Treehouse has a Homebrew installation guide](http://treehouse.github.io/installation-guides/mac/homebrew.html)
-  - …and a [Node.js installation guide](http://treehouse.github.io/installation-guides/mac/node-mac.html)
-- Homebrew makes it easier to upgrade Node.js, and doesn't require admin privileges (`sudo`) or manually updating the `$PATH`.
+For all platforms, visit [nodejs.org](https://nodejs.org/en/download/) to download the installer package. For our purposes today, we recommend the "LTS" package.
 
-##### Windows
-- [Installer package](https://nodejs.org/en/download/)  
-  - [Treehouse has a nice step-by-step guide](http://treehouse.github.io/installation-guides/windows/node-windows.html)
+For advanced users: if you later want to install multiple versions of node and npm on your system you can use tools like [`nvm`](https://github.com/creationix/nvm) or [`n`](https://github.com/tj/n).
 
-##### Linux
-- Let's leave this up to users, making the assumption that as Linux users they can figure it out :grin:  
-  - [Treehouse recommends](http://treehouse.github.io/installation-guides/linux/node-linux.html) installing via [Linuxbrew](http://linuxbrew.sh)
+Once you've got Node.js installed you will have the `node` and `npm` commands available in your terminal. You should be able to `npm install` packages now, without using `sudo`. If you see errors when installing packages with npm, you may need to [fix your permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions).
 
 ## Cheat-Sheets
 The cheat sheets for each activity are linked here:
